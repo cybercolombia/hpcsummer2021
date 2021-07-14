@@ -9,3 +9,10 @@
 * Nina Vogl, AWS 
 * George Thiruvathukal, Loyola University. 
 #### Day 2
+* Robert Davey (Earlham)
+* Andy Howard, Carolina Gonzalez (MS Azure)
+* Yuri Alexeev (Argonne)
+* Nelson Vera (U Distrital)
+#### Day 3
+ * Jacob Tomlinson (Nvidia)
+ * Carlos Alvarez (URosario)
