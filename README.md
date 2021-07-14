@@ -15,4 +15,4 @@
 * Nelson Vera (U Distrital)
 #### Day 3
  * Jacob Tomlinson (Nvidia)
- * Carlos Alvarez (URosario)
+ * Carlos Alvarez (URosario) [Julia Material](https://github.com/cybercolombia/hpcsummer2021/blob/main/JuliaWorkshop.tar.gz)
