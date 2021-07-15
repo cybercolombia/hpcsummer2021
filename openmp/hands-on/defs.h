@@ -9,7 +9,7 @@
     #include <omp.h>
     #define TRUE  1
     #define FALSE 0
-    #define OMP_HARD_LIMIT 4
+    // #define OMP_HARD_LIMIT 4
 #else
     #define omp_get_thread_num() 0
 #endif
@@ -23,9 +23,6 @@ void InfoOpenMP(void){
         {202011,"5.1"}
     };
     std::cout<<"[OMP] OpenMP enabled"<<std::endl;
-    (void) omp_set_dynamic(FALSE);
-    if (omp_get_dynamic()) {
-        std::cout<<"[OMP] {WARN} dynamic threads"<<std::endl;}
 #ifdef OMP_HARD_LIMIT
     (void) omp_set_num_threads(OMP_HARD_LIMIT);
 #endif
